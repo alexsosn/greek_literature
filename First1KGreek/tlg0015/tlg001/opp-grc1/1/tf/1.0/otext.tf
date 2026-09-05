@@ -19,8 +19,8 @@
 @sectionTypes=book,chapter,section
 @sourceDesc=Herodiani Ab excessu divi Marci, Herodian, Immanuel Bekker, Leipzig, Teubner, 1855, Internet Archive.
 @sponsor=Perseus Project, Tufts University
-@structureFeatures=_book,book,chapter,section,section,_sentence,_phrase
-@structureTypes=_book,book,chapter,section,section,_sentence,_phrase
+@structureFeatures=_book,book,chapter,section,_sentence,_phrase
+@structureTypes=_book,book,chapter,section,_sentence,_phrase
 @title=Ab excessu divi Marci
 @valueType=str
 @writtenBy=Text-Fabric

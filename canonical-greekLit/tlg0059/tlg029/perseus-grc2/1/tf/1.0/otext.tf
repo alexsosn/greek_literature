@@ -19,8 +19,8 @@
 @sectionTypes=section,section
 @sourceDesc=Plato, Platonis Opera, ed. John Burnet, 4, Oxford University Press, 1905, Internet Archive.
 @sponsor=Perseus Project, Tufts University
-@structureFeatures=_book,section,section,_sentence,_phrase
-@structureTypes=_book,section,section,_sentence,_phrase
+@structureFeatures=_book,section,_sentence,_phrase
+@structureTypes=_book,section,_sentence,_phrase
 @title=Cleitophon
 @valueType=str
 @writtenBy=Text-Fabric

@@ -18,8 +18,8 @@
 @sectionTypes=card,card,ephymnion
 @sourceDesc=Euripides, Euripidis Fabulae, Gilbert Murray, Oxford, Clarendon Press, 1913, 2, The Internet Archive.
 @sponsor=Perseus Project, Tufts University
-@structureFeatures=_book,card,card,strophe,antistrophe,ephymnion,_sentence,_phrase
-@structureTypes=_book,card,card,strophe,antistrophe,ephymnion,_sentence,_phrase
+@structureFeatures=_book,card,strophe,antistrophe,ephymnion,_sentence,_phrase
+@structureTypes=_book,card,strophe,antistrophe,ephymnion,_sentence,_phrase
 @title=Ἡρακλῆς, Machine readable text
 @valueType=str
 @writtenBy=Text-Fabric

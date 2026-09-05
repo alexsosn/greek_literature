@@ -19,8 +19,8 @@
 @sectionTypes=book,chapter,section
 @sourceDesc=Epictetus, Epicteti dissertationes ab Arriano digestae, editio maior, Heinrich Schenkl, Leipzig, Teubner, 1916, The Internet Archive.
 @sponsor=Perseus Project, Tufts University
-@structureFeatures=_book,book,chapter,section,section,_sentence,_phrase
-@structureTypes=_book,book,chapter,section,section,_sentence,_phrase
+@structureFeatures=_book,book,chapter,section,_sentence,_phrase
+@structureTypes=_book,book,chapter,section,_sentence,_phrase
 @title=Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν
 @valueType=str
 @writtenBy=Text-Fabric

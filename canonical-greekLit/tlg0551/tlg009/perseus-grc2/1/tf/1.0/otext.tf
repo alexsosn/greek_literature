@@ -18,8 +18,8 @@
 @sectionTypes=chapter,section,section
 @sourceDesc=Appian, The Foreign Wars, 04031898, L. Mendelssohn, Leipzig, Teubner, 1879.
 @sponsor=Perseus Project, Tufts University
-@structureFeatures=_book,chapter,section,section,_sentence,_phrase
-@structureTypes=_book,chapter,section,section,_sentence,_phrase
+@structureFeatures=_book,chapter,section,_sentence,_phrase
+@structureTypes=_book,chapter,section,_sentence,_phrase
 @title=Punic Wars
 @valueType=str
 @writtenBy=Text-Fabric

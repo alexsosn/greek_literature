@@ -19,8 +19,8 @@
 @sectionTypes=chapter,section,section
 @sourceDesc=Arriani periplus Ponti Euxini, Anonymi periplus Ponti Euxini, qui Arriano falso adscribitur. Anonymi periplus Ponti Euxini et Maeotidis paludis., Anonymi mensura Ponti Euxini. Agathemeri hypotyposes geographiae. Fragmenta duo geographica, Agathemeri Geographiae Expositio, Samuel Friedrich Wilhelm Hoffmann, Agathemerus, Sumptibus C.L. Fritzschii, Lipsiae, 1842, 1, Internet Archive.
 @sponsor=Harvard College Library
-@structureFeatures=_book,chapter,section,section,_sentence,_phrase
-@structureTypes=_book,chapter,section,section,_sentence,_phrase
+@structureFeatures=_book,chapter,section,_sentence,_phrase
+@structureTypes=_book,chapter,section,_sentence,_phrase
 @title=Geographiae Informatio
 @valueType=str
 @writtenBy=Text-Fabric

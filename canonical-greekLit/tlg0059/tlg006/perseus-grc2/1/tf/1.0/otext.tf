@@ -18,8 +18,8 @@
 @sectionTypes=section,section
 @sourceDesc=Plato, Platonis Opera, ed. John Burnet, 1, Oxford University Press, 1906, Internet Archive.
 @sponsor=Perseus Project, Tufts University
-@structureFeatures=_book,section,section,_sentence,_phrase
-@structureTypes=_book,section,section,_sentence,_phrase
+@structureFeatures=_book,section,_sentence,_phrase
+@structureTypes=_book,section,_sentence,_phrase
 @title=Theaetetus
 @valueType=str
 @writtenBy=Text-Fabric

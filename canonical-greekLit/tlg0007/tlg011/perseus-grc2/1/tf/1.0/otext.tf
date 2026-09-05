@@ -20,8 +20,8 @@
 @sectionTypes=chapter,section,section
 @sourceDesc=Plutarch, Plutarch's Lives, 0674990536, with an English Translation by, Bernadotte Perrin, Cambridge, MA, Harvard University Press, London, William Heinemann Ltd, 1914, 2.
 @sponsor=Perseus Project, Tufts University
-@structureFeatures=_book,chapter,section,section,_sentence,_phrase
-@structureTypes=_book,chapter,section,section,_sentence,_phrase
+@structureFeatures=_book,chapter,section,_sentence,_phrase
+@structureTypes=_book,chapter,section,_sentence,_phrase
 @title=Camillus
 @valueType=str
 @writtenBy=Text-Fabric

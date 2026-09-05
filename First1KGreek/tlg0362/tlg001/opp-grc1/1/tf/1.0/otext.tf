@@ -19,8 +19,8 @@
 @sectionTypes=section,section
 @sourceDesc=Musici scriptores Graeci, Karl von Jan, Carmina Delphis Inventa, Teubner, Leipzig, 1895, Hathi Trust.
 @sponsor=University of Leipzig
-@structureFeatures=_book,section,section,_sentence,_phrase
-@structureTypes=_book,section,section,_sentence,_phrase
+@structureFeatures=_book,section,_sentence,_phrase
+@structureTypes=_book,section,_sentence,_phrase
 @title=Carmina Delphis Inventa
 @valueType=str
 @writtenBy=Text-Fabric

@@ -19,8 +19,8 @@
 @sectionTypes=section,section
 @sourceDesc=Geographi Graeci Minores, Carolus Müllerus, Karl Müller, Pseudo-Scymnus, Ambroise-Firmin Didot, Paris, 1855, 1, The Internet Archive.
 @sponsor=Harvard College Library
-@structureFeatures=_book,section,section,_sentence,_phrase
-@structureTypes=_book,section,section,_sentence,_phrase
+@structureFeatures=_book,section,_sentence,_phrase
+@structureTypes=_book,section,_sentence,_phrase
 @title=Scymni Chii, ut fertur, Periegesis
 @valueType=str
 @writtenBy=Text-Fabric

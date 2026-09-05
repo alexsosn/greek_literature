@@ -19,8 +19,8 @@
 @sectionTypes=chapter,section,section
 @sourceDesc=ΑΓΑΘΗΜΕΡΟΥΣ τοῦ Ὄρθωνος Ὑποτυπώσεων Γεωγραφίας ἐν ἐπιτομῇ ΒΙΒΛίΑ ΔύΟ, AGATHEMERIS Orthonis filii Compendiariæ Geographiæ expositionum Libri Duo, Cura et Interpretatione Samuelis Tennulii, Samuel Tennulius, Samuel Ten Nuyl, Agathemerus, Apud Joannem Ravesteinium, Amsterdam, 1671, Bayerische Staatsbibliothek.
 @sponsor=Harvard College Library
-@structureFeatures=_book,chapter,section,section,_sentence,_phrase
-@structureTypes=_book,chapter,section,section,_sentence,_phrase
+@structureFeatures=_book,chapter,section,_sentence,_phrase
+@structureTypes=_book,chapter,section,_sentence,_phrase
 @title=Geographiae Informatio
 @valueType=str
 @writtenBy=Text-Fabric

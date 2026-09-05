@@ -19,8 +19,8 @@
 @sectionTypes=fragment,section,section
 @sourceDesc=Orationes et fragmenta, adivnctis Gorgiae, Antisthenis, Alcidamantis, declamationibvs, Alcidamas, Friedrich Blass, Tevbneri, Lipsiae, 1892, Internet Archive.
 @sponsor=University of Leipzig
-@structureFeatures=_book,fragment,section,section,_sentence,_phrase
-@structureTypes=_book,fragment,section,section,_sentence,_phrase
+@structureFeatures=_book,fragment,section,_sentence,_phrase
+@structureTypes=_book,fragment,section,_sentence,_phrase
 @title=Odysseus
 @valueType=str
 @writtenBy=Text-Fabric

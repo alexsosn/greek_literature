@@ -20,8 +20,8 @@
 @sectionTypes=book,card,card
 @sourceDesc=Argonautica, Apollonius Rhodius, George W. Mooney, London, Longmans, Green, 1912.
 @sponsor=Perseus Project, Tufts University
-@structureFeatures=_book,book,card,card,_sentence,_phrase
-@structureTypes=_book,book,card,card,_sentence,_phrase
+@structureFeatures=_book,book,card,_sentence,_phrase
+@structureTypes=_book,book,card,_sentence,_phrase
 @title=Argonautica
 @valueType=str
 @writtenBy=Text-Fabric

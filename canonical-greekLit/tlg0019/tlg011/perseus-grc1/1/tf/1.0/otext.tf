@@ -19,8 +19,8 @@
 @sectionTypes=card,card,antistrophe
 @sourceDesc=Aristophanes, Aristophanes Comoediae, ed. F.W. Hall and W.M. Geldart, vol. 2, F.W. Hall and W.M. Geldart, Oxford, Clarendon Press, Oxford, 1907.
 @sponsor=Perseus Project, Tufts University
-@structureFeatures=_book,card,card,strophe,antistrophe,_sentence,_phrase
-@structureTypes=_book,card,card,strophe,antistrophe,_sentence,_phrase
+@structureFeatures=_book,card,strophe,antistrophe,_sentence,_phrase
+@structureTypes=_book,card,strophe,antistrophe,_sentence,_phrase
 @title=Plutus, Machine readable text
 @valueType=str
 @writtenBy=Text-Fabric

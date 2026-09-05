@@ -18,8 +18,8 @@
 @sectionTypes=fragment,fragment
 @sourceDesc=Appian, The Foreign Wars, 04031898, L. Mendelssohn, Leipzig, Teubner, 1879.
 @sponsor=Perseus Project, Tufts University
-@structureFeatures=_book,fragment,fragment,_sentence,_phrase
-@structureTypes=_book,fragment,fragment,_sentence,_phrase
+@structureFeatures=_book,fragment,_sentence,_phrase
+@structureTypes=_book,fragment,_sentence,_phrase
 @title=Kings
 @valueType=str
 @writtenBy=Text-Fabric

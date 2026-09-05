@@ -19,8 +19,8 @@
 @sectionTypes=section,section
 @sourceDesc=Supplementum Aristotelicum, Fridericus G. Kenyon, Heraclides Ponticus, Typis et Inpensis Georgii Reimeri, Berolini, 1903, 3.2, Internet Archive.
 @sponsor=University of Leipzig
-@structureFeatures=_book,section,section,_sentence,_phrase
-@structureTypes=_book,section,section,_sentence,_phrase
+@structureFeatures=_book,section,_sentence,_phrase
+@structureTypes=_book,section,_sentence,_phrase
 @title=Res Publica Atheniensium
 @valueType=str
 @writtenBy=Text-Fabric

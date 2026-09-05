@@ -18,8 +18,8 @@
 @sectionTypes=section,section
 @sourceDesc=Demosthenes, Demosthenis. Orationes. Vol. III. ed W. Rennie, Clarendon Press, Oxford, 1931, Internet Archive.
 @sponsor=Perseus Project, Tufts University
-@structureFeatures=_book,section,section,_sentence,_phrase
-@structureTypes=_book,section,section,_sentence,_phrase
+@structureFeatures=_book,section,_sentence,_phrase
+@structureTypes=_book,section,_sentence,_phrase
 @title=πρὸς Φαίνιππον περὶ ἀντιδόσεως
 @valueType=str
 @writtenBy=Text-Fabric

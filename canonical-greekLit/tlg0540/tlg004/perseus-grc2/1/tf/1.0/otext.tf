@@ -18,8 +18,8 @@
 @sectionTypes=part,section,section
 @sourceDesc=Lysias, Lysias with an English translation by W.R.M. Lamb, M.A, Cambridge, MA, Harvard University Press; London, William Heinemann Ltd, 1930.
 @sponsor=Perseus Project, Tufts University
-@structureFeatures=_book,part,section,section,_sentence,_phrase
-@structureTypes=_book,part,section,section,_sentence,_phrase
+@structureFeatures=_book,part,section,_sentence,_phrase
+@structureTypes=_book,part,section,_sentence,_phrase
 @title=On A Wound By Premeditation
 @valueType=str
 @writtenBy=Text-Fabric
